@@ -2,6 +2,10 @@
 
 This is a curated collection of Articles and Videos about Golang internals. It is intended for advanced/intermediate programmers who are new to Golang and want to understand what happens under the hood. Feel free to add to it!
 
+### Internals
+[Golang Internals](https://www.altoros.com/blog/golang-internals-part-1-main-concepts-and-project-structure/)
+[Assembly, GC, etc](https://github.com/teh-cmc/go-internals/tree/master)
+
 ## Data Structures and Data Types
 
 ### Nil
@@ -47,7 +51,6 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [Go 1.18 Implementation of Generics via Dictionaries and Gcshape Stenciling](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md)
 
 ## Concurrency Primitives
-
 ### Goroutines
 [How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) by Krishna Sundarram
 
@@ -56,6 +59,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [How are go Channels implemented in Golang](https://stackoverflow.com/questions/19621149/how-are-go-channels-implemented)
 [Channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 
+### Links
+[Concurrency](https://github.com/golang-basics/concurrency/tree/master) 
 
 
 ### Tools
@@ -97,6 +102,8 @@ _[discussion at golang-dev](https://groups.google.com/d/topic/golang-dev/WcZaqTE
 [Golang Internals](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html) Series of Blog Posts by Siarhei Matsiukevich
 
 [Go compiler internals: adding a new statement to Go](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/) two-part series of posts by Eli Bendersky
+
+
 
 ### SSA compiler
 [SSA Backend for the Go Compiler](https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/edit) by Keith Randall
