@@ -59,6 +59,9 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [How are go Channels implemented in Golang](https://stackoverflow.com/questions/19621149/how-are-go-channels-implemented)
 [Channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 
+### Mutex
+[Deep Understanding of Golang Mutex](https://levelup.gitconnected.com/deep-understanding-of-golang-mutex-9964b02c56e9)
+
 ### Links
 [Concurrency](https://github.com/golang-basics/concurrency/tree/master) 
 
