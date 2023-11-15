@@ -10,6 +10,15 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Slices
 [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals) from The Go Blog
 
+### Strings
+[String internals: The Go Blog: Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
+
+### Constants
+[Constants internals: The Go Blog: Constants](https://blog.golang.org/constants)
+
+### Reflection
+[Reflection insight: The Go Blog: The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
+
 ### Structs
 [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct) by Dave Chevney
 
@@ -19,6 +28,10 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [Inside the Map Implementation](https://youtu.be/Tl7mi9QmLns) Talk by Keith Randall
 
 [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics) by Dave Cheney
+
+[Golang map internal implementation](https://stackoverflow.com/questions/59290522/gos-maps-under-the-hood/59292254#59292254) 
+
+[how does it search the map for a key?; also related: Go's maps under the hood](https://stackoverflow.com/questions/37995648/golang-map-internal-implementation-how-does-it-search-the-map-for-a-key)
 
 ### Interfaces
 [Go Data Structures: Interfaces](https://research.swtch.com/interfaces) by Russ Cox
@@ -40,6 +53,10 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ### Channels
 [Channels in Golang](http://www.tapirgames.com/blog/golang-channel) by @TapirLiu
+[How are go Channels implemented in Golang](https://stackoverflow.com/questions/19621149/how-are-go-channels-implemented)
+[Channels on steroids](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
+
+
 
 ### Tools
 ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) Talk by Kavya Joshi
