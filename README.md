@@ -39,6 +39,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 ### Types: memory size and padding
 [Understanding Type in Go](https://www.ardanlabs.com/blog/2013/07/understanding-type-in-go.html)
+
 [Structure Member Alignment, Padding, and Data Packing for C but useful](https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/)
 
 
