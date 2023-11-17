@@ -3,7 +3,6 @@
 This is a curated collection of Articles and Videos about Golang internals. It is intended for advanced/intermediate programmers who are new to Golang and want to understand what happens under the hood. Feel free to add to it!
 
 ### Internals
-[Golang Internals](https://www.altoros.com/blog/golang-internals-part-1-main-concepts-and-project-structure/)
 [Assembly, GC, etc](https://github.com/teh-cmc/go-internals/tree/master)
 
 ## Data Structures and Data Types
