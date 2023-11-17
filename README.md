@@ -2,9 +2,6 @@
 
 This is a curated collection of Articles and Videos about Golang internals. It is intended for advanced/intermediate programmers who are new to Golang and want to understand what happens under the hood. Feel free to add to it!
 
-### Internals
-[Assembly, GC, etc](https://github.com/teh-cmc/go-internals/tree/master)
-
 ## Data Structures and Data Types
 
 ### Nil
@@ -110,7 +107,7 @@ _[discussion at golang-dev](https://groups.google.com/d/topic/golang-dev/WcZaqTE
 
 [Go compiler internals: adding a new statement to Go](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/) two-part series of posts by Eli Bendersky
 
-
+[Assembly, GC, etc](https://github.com/teh-cmc/go-internals/tree/master)
 
 ### SSA compiler
 [SSA Backend for the Go Compiler](https://docs.google.com/document/d/1szwabPJJc4J-igUZU4ZKprOrNRNJug2JPD8OYi3i1K0/edit) by Keith Randall
